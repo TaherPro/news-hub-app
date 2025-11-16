@@ -12,3 +12,6 @@ Tech Stack
 * Context for state management
 * NewsAPI for fetching articles
 * HTML + CSS for layout and styling
+
+Live Demo
+https://69198668bb9959d873fb349c--subtle-semifreddo-2687b0.netlify.app/
