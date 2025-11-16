@@ -9,5 +9,6 @@ Main Features
 
 Tech Stack
 * React 
+* Context API for state management
 * NewsAPI for fetching articles
 * HTML + CSS for layout and styling
