@@ -8,4 +8,5 @@ Main Features
 * Click any article to read the full story
 
 Tech Stack
+* HTML + CSS for layout and styling
 * React 
