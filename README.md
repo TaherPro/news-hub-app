@@ -6,3 +6,6 @@ Main Features
 * Browse top US news headlines
 * Filter news by categories (General, Business, Sports, Technology, Health)
 * Click any article to read the full story
+
+Tech Stack
+* React 
